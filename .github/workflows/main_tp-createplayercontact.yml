@@ -39,4 +39,4 @@ jobs:
           app-name: 'TP-CreatePlayerContact'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8128269A68C49A7B2C623334E97F8CF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49AA4E5B3F914693A11899D8A42B933A }}
